@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://doi.org/10.1016/j.compag.2020.105740">Scientific paper</a>
   ·
-
+<p align="center">
   <a href="https://haqueshenas.github.io/EPL/">Easy-Phenotyping Lab (EPL)</a>
 </p>
 
