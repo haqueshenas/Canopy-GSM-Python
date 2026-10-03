@@ -15,10 +15,7 @@
 <p align="center">
   <a href="https://doi.org/10.1016/j.compag.2020.105740">Scientific paper</a>
   ·
-  <a href="https://codeocean.com/capsule/1652693/tree/v2">Historical MATLAB v2</a>
-  ·
-  <a href="https://github.com/haqueshenas/Canopy-GSM">Historical MATLAB repository</a>
-  ·
+
   <a href="https://haqueshenas.github.io/EPL/">Easy-Phenotyping Lab (EPL)</a>
 </p>
 
