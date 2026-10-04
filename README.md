@@ -10,7 +10,7 @@
 
 Version 1.0.0 · Free and open-source crop-phenotyping software
 
-<br><br>
+<br>
 
 <a href="https://github.com/haqueshenas/Canopy-GSM-Python/releases/latest">
 Download Windows application
@@ -28,7 +28,7 @@ Scientific paper
 Easy-Phenotyping Lab (EPL)
 </a>
 
-<br><br>
+<br>
 
 <em>
 Explore 2D crop-canopy images with GSM, quantify shading patterns from RGB triplets,
@@ -2744,7 +2744,7 @@ segmentation code.
 
 <img src="CanopyGSM.png" alt="Canopy GSM logo" width="90">
 
-<br><br>
+<br>
 
 <strong>Canopy GSM for Python · Version 1.0.0</strong>
 
@@ -2752,13 +2752,13 @@ segmentation code.
 
 Green-gradient based canopy segmentation for quantitative crop-canopy image analysis
 
-<br><br>
+<br>
 
 <a href="https://haqueshenas.github.io/EPL/">
 Easy-Phenotyping Lab (EPL)
 </a>
 
-<br><br>
+<br>
 
 Copyright © 2026 Abbas Haghshenas · MIT License
 
