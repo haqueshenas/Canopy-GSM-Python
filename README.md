@@ -28,7 +28,7 @@ Scientific paper
 Easy-Phenotyping Lab (EPL)
 </a>
 
-<br>
+<br><br>
 
 <em>
 Explore 2D crop-canopy images with GSM, quantify shading patterns from RGB triplets,
@@ -2758,7 +2758,7 @@ Green-gradient based canopy segmentation for quantitative crop-canopy image anal
 Easy-Phenotyping Lab (EPL)
 </a>
 
-<br>
+<br><br>
 
 Copyright © 2026 Abbas Haghshenas · MIT License
 
