@@ -10,7 +10,11 @@
 
 Version 1.0.0 · Free and open-source crop-phenotyping software
 
-<br>
+<a href="https://doi.org/10.5281/zenodo.23134465">
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23134465.svg" alt="DOI">
+</a>
+
+<br><br>
 
 <a href="https://github.com/haqueshenas/Canopy-GSM-Python/releases/latest">
 Download Windows application
@@ -2753,6 +2757,12 @@ segmentation code.
 Green-gradient based canopy segmentation for quantitative crop-canopy image analysis
 
 <br>
+
+<a href="https://doi.org/10.5281/zenodo.23134465">
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23134465.svg" alt="DOI">
+</a>
+
+<br><br>
 
 <a href="https://haqueshenas.github.io/EPL/">
 Easy-Phenotyping Lab (EPL)
