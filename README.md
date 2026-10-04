@@ -2410,8 +2410,9 @@ Canopy GSM for Python
 Version 1.0.0
 ```
 
-Once the release has been archived by Zenodo, use the corresponding archival
-DOI when citing the software.
+Software DOI:
+
+[https://doi.org/10.5281/zenodo.23134465](https://doi.org/10.5281/zenodo.23134465)
 
 A software citation should identify both:
 
@@ -2421,6 +2422,10 @@ Version 1.0.0
 ```
 
 and the original GSM scientific article when the GSM methodology is being used.
+
+### APA-style software citation
+
+Haghshenas, A. (2026). *Canopy GSM for Python* (Version 1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.23134465](https://doi.org/10.5281/zenodo.23134465)
 
 ---
 
