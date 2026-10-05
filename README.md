@@ -191,6 +191,12 @@ CanopyGSM-v1.0.0-Windows-x64.zip
 
 Extract the ZIP as a complete application directory.
 
+**Important:** Keep the complete `CanopyGSM` folder together after extraction.
+Do not move `CanopyGSM.exe` out of this folder, because the application
+depends on the files and folders contained within it. For convenient access,
+you may create a desktop shortcut to `CanopyGSM.exe` instead of moving the
+executable.
+
 The packaged application is not intended to be separated into individual
 files.
 
