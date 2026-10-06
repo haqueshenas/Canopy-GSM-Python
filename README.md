@@ -227,7 +227,6 @@ The Launcher provides:
 ```text
 Batch Processing
 Canopy GSM Explorer
-About
 ```
 
 Choose **Batch Processing** to process an image collection.
